@@ -1,7 +1,7 @@
 # Ip Crawler
 
 Tiny IP Address Scanner, seacrhing for open ports depends on selected known services,
-Using Ip number simplified the convertation to ip address while iteractions.
+Using Ip number simplified the conversion to ip address while iteractions.
 
 0.0.0.0 = 0<br />
 255.255.255.255 = 4294967295
