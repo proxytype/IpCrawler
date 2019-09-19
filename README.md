@@ -1,6 +1,6 @@
 # Ip Crawler
 
-Tiny IP Address Scanner, seacrhing for open ports depends on selected known services,<br />
+Tiny IP Address Scanner, searching for open ports depends on selected known services,<br />
 using Ip number simplified the conversion to ip address while iterations.
 
 0.0.0.0 = 0<br />
